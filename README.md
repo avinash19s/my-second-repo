@@ -14,9 +14,9 @@ I recommend this course to everyone who is scared of and those who want to learn
 
 ### Vote of Thanks
 
-I sincerely thank **Mr.Sean Kroovs** and **Team** for this wonderful course of *The Unix Workbench* which helped me getting comfortable with Unix.
+I sincerely thank **Mr.Sean Kroovs** and **Team** for this wonderful course of **The Unix Workbench** which helped me getting comfortable with Unix.
 
 
-***Regards
+**Regards**
 
 **Avinash**
